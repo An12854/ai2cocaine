@@ -16,7 +16,7 @@ if (body) {
         "stable diffusion": "cocaine diffusion",
         "Stable Diffusion": "Cocaine Diffusion",
         "transformer": "transCocaine",
-        "LLM": "LLC",
+        "LLM": "LSD",
         "language model": "language Drug",
         "Language Model": "Language Drug",
         "chatbot": "Cocainebot",
