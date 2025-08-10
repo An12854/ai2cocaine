@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="./media/banner.gif" alt="">
-</p>
-
 [![](https://img.shields.io/badge/check%20the-original-teal?logo=github)](https://github.com/astral4/ai2fumo)
 ![](https://img.shields.io/badge/version-1.0.0-13ADC7) [![](https://img.shields.io/badge/install%20on-Chrome-4285F4?logo=googlechrome)](#install-on-chrome) [![](https://img.shields.io/badge/install%20on-Firefox-FF7139?logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/ai2cocaine/) [![](https://img.shields.io/badge/license-MIT-skyblue)](./LICENSE) ![](https://img.shields.io/badge/actual-dogshit-brown)
 
@@ -34,7 +30,15 @@ Alternatively, you can install AI2Cocaine as a temporary addon by following the 
 
 ## Install on other browsers
 
-Installing AI2Cocaine on other Blink-based browsers such as Edge and Opera should be similar to installing on Chrome. However, I have not tested AI2Cocaine on browsers other than Chrome and Firefox.
+Installing AI2Cocaine on other Blink/Chromium and Gecko/Firefox-based browsers should be similar to installing on Chrome and Firefox.
+
+### Browsers tested
+
+- Mozilla Firefox
+
+- Google Chrome
+
+- Microsoft Edge (Enable developer mode in the extensions tab > "Load Unpacked" > Choose the `src` file in the repository )
 
 ## It doesn't work!
 
