@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/check%20the-original-teal?logo=github)](https://github.com/astral4/ai2fumo)
-![](https://img.shields.io/badge/version-1.0.1-13ADC7) [![](https://img.shields.io/badge/install%20on-Chrome-4285F4?logo=googlechrome)](#install-on-chrome) [![](https://img.shields.io/badge/install%20on-Firefox-FF7139?logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/ai2cocaine/) [![](https://img.shields.io/badge/license-MIT-skyblue)](./LICENSE) ![](https://img.shields.io/badge/actual-dogshit-brown)
+![](https://img.shields.io/badge/version-1.0.2-13ADC7) [![](https://img.shields.io/badge/install%20on-Chrome-4285F4?logo=googlechrome)](#install-on-chrome) [![](https://img.shields.io/badge/install%20on-Firefox-FF7139?logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/ai2cocaine/) [![](https://img.shields.io/badge/license-MIT-skyblue)](./LICENSE) ![](https://img.shields.io/badge/actual-dogshit-brown)
 
 ## Introduction
 
