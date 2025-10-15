@@ -7,10 +7,10 @@ const { body } = document;
 if (body) {
     let terms = {
         "AI": "Cocaine",
-        "artificial intelligence": "Cocaine",
+        "artificial intelligence": "cocaine",
         "Artificial Intelligence": "Cocaine",
         "an AI": "a Cocaine",
-        "an artificial intelligence": "a Cocaine",
+        "an artificial intelligence": "a cocaine",
         "an Artificial Intelligence": "a Cocaine",
         "GPT": "Cocaine",
         "stable diffusion": "cocaine diffusion",
@@ -20,13 +20,16 @@ if (body) {
         "language model": "language Drug",
         "Language Model": "Language Drug",
         "chatbot": "Cocainebot",
-        "ChatGPT": "ChatCocaine",
+        "chatgpt": "cocainegpt",
+        "ChatGPT": "CocaineGPT",
         "Gemini": "Cocaineni",
         "OpenAI": "CocaineCorp",
         "Anthropic": "CocaineCo",
         "AGI": "Cocaine Bear",
-        "artificial general intelligence": "Cocaine Bear",
+        "artificial general intelligence": "cocaine bear",
         "Artificial General Intelligence": "Cocaine Bear",
+        "genai": "fentanyl",
+        "genAI": "Fentanyl",
     };
 
     // Add matches for capitalized and pluralized versions of terms
