@@ -3,7 +3,7 @@
 
 ## Introduction
 
-AI2Cocaine is a simple browser extension that replaces webpage mentions of AI with Cocaine. Do you feel the web has too much AI and not enough Cocaine? AI2Cocaine helps you achieve a more balanced browsing experience.
+AI2Cocaine is a simple browser extension that replaces webpage mentions of AI with Cocaine (and more). Do you feel the web has too much AI and not enough Cocaine? AI2Cocaine helps you achieve a more balanced browsing experience.
 
 ## Example
 

@@ -30,6 +30,9 @@ if (body) {
         "Artificial General Intelligence": "Cocaine Bear",
         "genai": "fentanyl",
         "genAI": "Fentanyl",
+        "AIBro" : "CocaineBro",
+        "AIbro" : "Cocainebro",
+        "aibro" : "cocainebro",
     };
 
     // Add matches for capitalized and pluralized versions of terms
